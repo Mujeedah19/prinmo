@@ -1,0 +1,51 @@
+*{
+    font-family: Montserrat;
+}
+#lhs,
+#rhs{
+    float: left;
+    height: 98vh;
+
+}
+#rhs{
+    width: 45%;
+    background-color: #001933;
+    color: rgb(234, 124, 56);
+
+}
+
+#lhs{
+    width: 55%;
+    background: url('nature pattern.jpg');
+    opacity: 90%;
+}
+ body{
+    justify-content: center;
+}
+
+#content{
+    padding-top: 20vh;
+}
+
+input {
+    color: #5a5854;
+    background-color: #f2f2f2;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+    padding: 5px;
+    display: block;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color:#fff;
+}
+
+#left,
+#right{
+    float: left;
+    padding-left: 20px;
+}
+#left{
+    width: 50%;
+}
